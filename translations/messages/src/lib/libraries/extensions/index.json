@@ -1,0 +1,202 @@
+[
+  {
+    "id": "gui.extension.chatgpt2scratchblocks.description",
+    "description": "ChatGPT for Scratch",
+    "defaultMessage": "ChatGPT for Scratch"
+  },
+  {
+    "id": "gui.extension.ic2scratchblocks.description",
+    "description": "AI extn blocks | Image classifier",
+    "defaultMessage": "AI extn blocks | Image classifier"
+  },
+  {
+    "id": "gui.extension.facemesh2scratch.description",
+    "description": "Face Tracking",
+    "defaultMessage": "AI extn blocks | Face mesh & feature recognition"
+  },
+  {
+    "id": "gui.extension.handpose2scratchblocks.description",
+    "description": "HandPose2Scratch Blocks.",
+    "defaultMessage": "AI extn blocks | Human Finger Recognition"
+  },
+  {
+    "id": "gui.extension.tm2scratchblocks.description",
+    "description": "画像や音声を学習させよう。",
+    "defaultMessage": "AI extn blocks | Teachable Machines"
+  },
+  {
+    "id": "gui.extension.ml2scratchblocks.description",
+    "description": "ML2Scratch Blocks.",
+    "defaultMessage": "AI extn blocks | Image classification with Machine Learning"
+  },
+  {
+    "id": "gui.extension.speech2scratchblocks.description",
+    "description": "Speech Recognition Blocks.",
+    "defaultMessage": "AI extn blocks | Speech Recognition"
+  },
+  {
+    "id": "gui.extension.posenet2scratchblocks.description",
+    "description": "PoseNet2Scratch Blocks.",
+    "defaultMessage": "AI extn blocks | Human Pose Detection"
+  },
+  {
+    "id": "gui.extension.languagedetectblocks.description",
+    "description": "Languagedetect Blocks.",
+    "defaultMessage": "AI extn blocks | Language Recognition and Identification"
+  },
+  {
+    "id": "gui.extension.wiki.description",
+    "description": "AI extn blocks | Wiki connect.",
+    "defaultMessage": "AI extn blocks | Wiki connect."
+  },
+  {
+    "id": "gui.extension.sheets.description",
+    "description": "AI extn blocks | Access Google Sheets",
+    "defaultMessage": "AI extn blocks | Access Google Sheets"
+  },
+  {
+    "id": "gui.extension.colour.description",
+    "description": "AI extn blocks | Camera Vision.",
+    "defaultMessage": "AI extn blocks | Camera Vision."
+  },
+  {
+    "id": "gui.extension.facefeature.description",
+    "description": "AI extn blocks | Face feature recognition.",
+    "defaultMessage": "AI extn blocks | Face feature recognition."
+  },
+  {
+    "id": "gui.extension.ocr.description",
+    "description": "AI extn blocks | Printed text recognition.",
+    "defaultMessage": "AI extn blocks | Printed text recognition."
+  },
+  {
+    "id": "gui.extension.weatherblocks.description",
+    "description": "AI extn blocks| Realtime Weather Data",
+    "defaultMessage": "AI extn blocks| Realtime Weather Data"
+  },
+  {
+    "id": "gui.extension.Languageblocks.description",
+    "description": "AI extn blocks | Language Recognition and identification",
+    "defaultMessage": "AI extn blocks| Language Recognition and identification"
+  },
+  {
+    "id": "gui.extension.watsonblocks.description",
+    "description": "AI extn blocks | Image training with Machine learning",
+    "defaultMessage": "AI extn blocks | Image training with Machine learning"
+  },
+  {
+    "id": "gui.extension.watson_nlcblocks.description",
+    "description": "AI extn blocks | Text classification with Machine learning",
+    "defaultMessage": "AI extn blocks | Text classification with Machine learning"
+  },
+  {
+    "id": "gui.extension.feelingblocks.description",
+    "description": "AI extn blocks | Sentimental Analysis",
+    "defaultMessage": "AI extn blocks | Sentimental Analysis"
+  },
+  {
+    "id": "gui.extension.music.name",
+    "description": "Name for the 'Music' extension",
+    "defaultMessage": "Music"
+  },
+  {
+    "id": "gui.extension.music.description",
+    "description": "Description for the 'Music' extension",
+    "defaultMessage": "Play instruments and drums."
+  },
+  {
+    "id": "gui.extension.pen.name",
+    "description": "Name for the 'Pen' extension",
+    "defaultMessage": "Pen"
+  },
+  {
+    "id": "gui.extension.pen.description",
+    "description": "Description for the 'Pen' extension",
+    "defaultMessage": "Draw with your sprites."
+  },
+  {
+    "id": "gui.extension.videosensing.name",
+    "description": "Name for the 'Video Sensing' extension",
+    "defaultMessage": "Video Sensing"
+  },
+  {
+    "id": "gui.extension.videosensing.description",
+    "description": "Description for the 'Video Sensing' extension",
+    "defaultMessage": "Sense motion with the camera."
+  },
+  {
+    "id": "gui.extension.text2speech.name",
+    "description": "Name for the Text to Speech extension",
+    "defaultMessage": "Text to Speech"
+  },
+  {
+    "id": "gui.extension.text2speech.description",
+    "description": "Description for the Text to speech extension",
+    "defaultMessage": "Make your projects talk."
+  },
+  {
+    "id": "gui.extension.translate.name",
+    "description": "Name for the Translate extension",
+    "defaultMessage": "Translate"
+  },
+  {
+    "id": "gui.extension.translate.description",
+    "description": "Description for the Translate extension",
+    "defaultMessage": "Translate text into many languages."
+  },
+  {
+    "id": "gui.extension.makeymakey.description",
+    "description": "Description for the 'Makey Makey' extension",
+    "defaultMessage": "Make anything into a key."
+  },
+  {
+    "id": "gui.extension.microbit.description",
+    "description": "Description for the 'micro:bit' extension",
+    "defaultMessage": "Connect your projects with the world."
+  },
+  {
+    "id": "gui.extension.microbit.connectingMessage",
+    "description": "Message to help people connect to their micro:bit.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.ev3.description",
+    "description": "Description for the 'LEGO MINDSTORMS EV3' extension",
+    "defaultMessage": "Build interactive robots and more."
+  },
+  {
+    "id": "gui.extension.ev3.connectingMessage",
+    "description": "Message to help people connect to their EV3. Must note the PIN should be 1234.",
+    "defaultMessage": "Connecting. Make sure the pin on your EV3 is set to 1234."
+  },
+  {
+    "id": "gui.extension.boost.description",
+    "description": "Description for the 'LEGO BOOST' extension",
+    "defaultMessage": "Bring robotic creations to life."
+  },
+  {
+    "id": "gui.extension.boost.connectingMessage",
+    "description": "Message to help people connect to their BOOST.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.wedo2.description",
+    "description": "Description for the 'LEGO WeDo 2.0' extension",
+    "defaultMessage": "Build with motors and sensors."
+  },
+  {
+    "id": "gui.extension.wedo2.connectingMessage",
+    "description": "Message to help people connect to their WeDo.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.gdxfor.description",
+    "description": "Description for the Vernier Go Direct Force and Acceleration sensor extension",
+    "defaultMessage": "Sense push, pull, motion, and spin."
+  },
+  {
+    "id": "gui.extension.gdxfor.connectingMessage",
+    "description": "Message to help people connect to their force and acceleration sensor.",
+    "defaultMessage": "Connecting"
+  }
+]
